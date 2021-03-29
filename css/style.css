@@ -75,6 +75,7 @@ figure {
 
 #colorlib-page {
   width: 100%;
+  background: #000;
   overflow: hidden;
   position: relative; }
 
